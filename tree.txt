@@ -1,0 +1,18 @@
+.
+├── conf
+│   └── apt-release.conf
+├── debs
+│   ├── calamares-settings-kebianos_1.6_amd64.deb
+│   ├── kebianos-archive-keyring_1.1_amd64.deb
+│   ├── kebianos-defaults_1.8_amd64.deb
+│   └── kebianos-meta-codecs_1.8_amd64.deb
+├── keys
+│   ├── kebianos-archive-keyring.asc
+│   └── kebianos-archive-keyring.gpg
+├── push.sh
+├── README.md
+├── scripts
+│   └── build-repo.sh
+└── tree.txt
+
+5 directories, 11 files
